@@ -1,1 +1,1 @@
-/home/bruce/Xiaomi_Kernel_OpenSource/include/dum/misysinfofreader.h
+/mnt/Xiaomi_Kernel_OpenSource/include/dum/misysinfofreader.h
